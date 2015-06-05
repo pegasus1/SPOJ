@@ -1,0 +1,2 @@
+# SPOJ
+Competitive Programming Code
